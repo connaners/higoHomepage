@@ -1,0 +1,59 @@
+{
+  "keywordFileContentHash": "B85ED39633351F519669CB7493BBD0A2",
+  "keywordClasses": [
+    {
+      "name": "HigoHomePage",
+      "keywordMethods": [
+        {
+          "name": "verifyImpactMetrics",
+          "parameters": [
+            {
+              "name": "expectedStats",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.List",
+                "unresolvedClassName": "List",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [
+                  {
+                    "fullClassName": "java.util.Map",
+                    "unresolvedClassName": "Map",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [
+                      {
+                        "fullClassName": "java.lang.String",
+                        "unresolvedClassName": "String",
+                        "isArray": false,
+                        "isGnericsPlaceHolder": false,
+                        "hasImmutableClassName": false,
+                        "genericsTypes": [],
+                        "errorOnParsing": false
+                      },
+                      {
+                        "fullClassName": "java.lang.String",
+                        "unresolvedClassName": "String",
+                        "isArray": false,
+                        "isGnericsPlaceHolder": false,
+                        "hasImmutableClassName": false,
+                        "genericsTypes": [],
+                        "errorOnParsing": false
+                      }
+                    ],
+                    "errorOnParsing": false
+                  }
+                ],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

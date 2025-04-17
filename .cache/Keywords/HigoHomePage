@@ -1,0 +1,164 @@
+{
+  "keywordFileContentHash": "5967E67BF7C94A9DF300A42925E10B0A",
+  "keywordClasses": [
+    {
+      "name": "HigoHomePage",
+      "keywordMethods": [
+        {
+          "name": "verifyImpactMetrics",
+          "parameters": [
+            {
+              "name": "expectedStats",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.List",
+                "unresolvedClassName": "List",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [
+                  {
+                    "fullClassName": "java.util.Map",
+                    "unresolvedClassName": "Map",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [
+                      {
+                        "fullClassName": "java.lang.String",
+                        "unresolvedClassName": "String",
+                        "isArray": false,
+                        "isGnericsPlaceHolder": false,
+                        "hasImmutableClassName": false,
+                        "genericsTypes": [],
+                        "errorOnParsing": false
+                      },
+                      {
+                        "fullClassName": "java.lang.String",
+                        "unresolvedClassName": "String",
+                        "isArray": false,
+                        "isGnericsPlaceHolder": false,
+                        "hasImmutableClassName": false,
+                        "genericsTypes": [],
+                        "errorOnParsing": false
+                      }
+                    ],
+                    "errorOnParsing": false
+                  }
+                ],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyServiceCards",
+          "parameters": [
+            {
+              "name": "expectedCards",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.List",
+                "unresolvedClassName": "List",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [
+                  {
+                    "fullClassName": "java.util.Map",
+                    "unresolvedClassName": "Map",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [
+                      {
+                        "fullClassName": "java.lang.String",
+                        "unresolvedClassName": "String",
+                        "isArray": false,
+                        "isGnericsPlaceHolder": false,
+                        "hasImmutableClassName": false,
+                        "genericsTypes": [],
+                        "errorOnParsing": false
+                      },
+                      {
+                        "fullClassName": "java.lang.String",
+                        "unresolvedClassName": "String",
+                        "isArray": false,
+                        "isGnericsPlaceHolder": false,
+                        "hasImmutableClassName": false,
+                        "genericsTypes": [],
+                        "errorOnParsing": false
+                      }
+                    ],
+                    "errorOnParsing": false
+                  }
+                ],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyReviewChanged",
+          "parameters": [
+            {
+              "name": "prevText",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "clickFAQByQuestion",
+          "parameters": [
+            {
+              "name": "faqItem",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.Map",
+                "unresolvedClassName": "Map",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [
+                  {
+                    "fullClassName": "java.lang.String",
+                    "unresolvedClassName": "String",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  },
+                  {
+                    "fullClassName": "java.lang.String",
+                    "unresolvedClassName": "String",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  }
+                ],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
